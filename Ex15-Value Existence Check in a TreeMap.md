@@ -16,7 +16,7 @@ To write a Java program that checks whether a given value exists in a TreeMap.
 ```
 /*
 Program to checks whether a given value exists in a TreeMap.
-Developed by: Lakshmi Priya .V
+Developed by: Lakshmi Priya.V
 RegisterNumber:  212223220049
 */
 ```
